@@ -1,0 +1,5 @@
+﻿  labs6.1and6.2PL.cpp
+C:\Users\Андрей\source\repos\labs6.1and6.2PL\labs6.1and6.2PL\labs6.1and6.2PL.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\labs6.1and6.2PL\labs6.1and6.2PL\labs6.1and6.2PL.cpp(84,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\labs6.1and6.2PL\labs6.1and6.2PL\labs6.1and6.2PL.cpp(185,23): warning C4018: <: несоответствие типов со знаком и без знака
+  labs6.1and6.2PL.vcxproj -> C:\Users\Андрей\source\repos\labs6.1and6.2PL\Debug\labs6.1and6.2PL.exe
